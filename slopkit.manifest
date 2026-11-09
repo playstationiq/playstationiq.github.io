@@ -4,7 +4,7 @@ CACHE:
 includes/style.css
 includes/Background.png
 includes/LOGO.svg
-goldhen_2.4b18.12.bin
+goldhen_2.4b18.13.bin
 index.html
 slopkit\chain_lapse.js
 slopkit\chain_poops.js
@@ -22,6 +22,7 @@ slopkit\patches\1300.bin
 slopkit\patches\1302.bin
 slopkit\patches\1350.bin
 slopkit\patches\1352.bin
+slopkit\patches\1400.bin
 
 NETWORK:
 *
